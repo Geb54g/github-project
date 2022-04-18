@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { PersonalDetailsComponent } from './personal-details/personal-details.component';
 import { LoginComponent } from './login/login.component';
+import { DatePipe } from './pipes/date.pipe';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { LoginComponent } from './login/login.component';
     HeaderComponent,
     NavbarComponent,
     PersonalDetailsComponent,
-    LoginComponent
+    LoginComponent,
+    DatePipe
   ],
   imports: [
     BrowserModule,
