@@ -8,6 +8,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { PersonalDetailsComponent } from './personal-details/personal-details.component';
 import { LoginComponent } from './login/login.component';
 import { DatePipe } from './pipes/date.pipe';
+import { RepositoriesComponent } from './repositories/repositories.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { DatePipe } from './pipes/date.pipe';
     NavbarComponent,
     PersonalDetailsComponent,
     LoginComponent,
-    DatePipe
+    DatePipe,
+    RepositoriesComponent
   ],
   imports: [
     BrowserModule,
