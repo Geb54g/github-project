@@ -28,7 +28,7 @@
 
 ## know Bugs
 
--Applicating throw a negative sometime.
+-Application throw a negative sometime.
 
 ## Contributing
 
