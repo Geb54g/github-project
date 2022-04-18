@@ -1,0 +1,13 @@
+ul{
+    float: right;
+}
+li{
+    display: inline-block;
+    margin: 2rem;
+    color: red;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px;
+}
+li:hover{
+    background-color: black;
+}
