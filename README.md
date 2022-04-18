@@ -77,20 +77,9 @@ Contribution to the project are highly welcome.Fork or clone the repo to contrib
 SSH:https://github.com/Geb54g/github-project
 
 ## Live Site
-
-
-## Licence
-
-[MIT LICENCE]
-
-## Author
-
--[Gabriel O.Ndolo](https://github.com/Geb54g)
-
-
-## Live Site
 https://geb54g.github.io/github-project/
 
+
 ## Licence
 
 [MIT LICENCE]
@@ -98,3 +87,4 @@ https://geb54g.github.io/github-project/
 ## Author
 
 -[Gabriel O.Ndolo](https://github.com/Geb54g)
+
