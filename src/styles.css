@@ -5,3 +5,8 @@
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
 }/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url(../src/assets/image/fotis-fotopoulos-SyvsTmuuZyM-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
