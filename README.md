@@ -1,27 +1,100 @@
-# Github
+#Github Search App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+###Table of content
 
-## Development server
+- [Description](#project description)
+- [Setup instructions](#setup-instructions)
+- [Technology used](#language-and-frameworks)
+- [License](#license)
+- [Authors info](#Author)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Project Github Search App
 
-## Code scaffolding
+-Github Search App is website where a user can see different projects from different repositories by logging in their Github usernames.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### BDD(Behavior Driven Development)
 
-## Build
+#### user fills the form
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+#### Application checks validity
 
-## Running unit tests
+#### User is show different repositories
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Languages and Frameworks
 
-## Running end-to-end tests
+- Html5
+- Css
+- typescript
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## know Bugs
 
-## Further help
+-Applicating throw a negative sometime.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contributing
+
+Contribution to the project are highly welcome.Fork or clone the repo to contribute.
+
+## Setup instructions
+
+SSH:#Quotes App
+
+###Table of content
+
+- [Description](#project description)
+- [Setup instructions](#setup-instructions)
+- [Technology used](#language-and-frameworks)
+- [License](#license)
+- [Authors info](#Author)
+
+## Project Quotes App
+
+-Quotes App is website where a user can get a quote for motivation by logging in their names and the author,s name.
+
+### BDD(Behavior Driven Development)
+
+#### user fills the form
+
+#### Application checks validity
+
+#### User receives a quote
+
+## Languages and Frameworks
+
+- Html5
+- Css
+- typescript
+
+## know Bugs
+
+-Applicating throw a negative sometime.
+
+## Contributing
+
+Contribution to the project are highly welcome.Fork or clone the repo to contribute.
+
+## Setup instructions
+
+SSH:https://github.com/Geb54g/github-project
+
+## Live Site
+
+
+## Licence
+
+[MIT LICENCE]
+
+## Author
+
+-[Gabriel O.Ndolo](https://github.com/Geb54g)
+
+
+## Live Site
+
+
+## Licence
+
+[MIT LICENCE]
+
+## Author
+
+-[Gabriel O.Ndolo](https://github.com/Geb54g)
