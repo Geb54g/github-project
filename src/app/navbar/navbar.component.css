@@ -4,10 +4,11 @@ ul{
 li{
     display: inline-block;
     margin: 2rem;
-    color: red;
+    color: white;
     font-weight: bold;
     text-shadow: 5px 5px 5px;
+    box-shadow: 5px 5px 5px;
 }
 li:hover{
-    background-color: black;
+    background-color: rgb(255, 0, 128);
 }
