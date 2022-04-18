@@ -1,5 +1,4 @@
 .login{
-    background-color: aqua;
     padding-top: 1.5rem;
     padding-left: 1rem;
 }
@@ -15,7 +14,14 @@ label{
 }
 .btn{
     font-weight: bold;
-    background-color: aqua;
     border-radius: 0.5em;
     width: 5%;
+    box-shadow: 5px 3px 4px black;
+}
+.btn:hover{
+    background-color: red;
+}
+input{
+    width:20%;
+    box-shadow: 5px 5px 5px black;
 }
