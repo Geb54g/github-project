@@ -4,6 +4,8 @@
 
 export const environment = {
   production: false
+  // url:'https://api.github.com',
+  // apikey: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
 };
 
 /*

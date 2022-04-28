@@ -9,6 +9,8 @@ import { PersonalDetailsComponent } from './personal-details/personal-details.co
 import { LoginComponent } from './login/login.component';
 import { DatePipe } from './pipes/date.pipe';
 import { RepositoriesComponent } from './repositories/repositories.component';
+import { FontDirective } from './font.directive';
+import { UsersComponent } from './users/users.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { RepositoriesComponent } from './repositories/repositories.component';
     PersonalDetailsComponent,
     LoginComponent,
     DatePipe,
-    RepositoriesComponent
+    RepositoriesComponent,
+    FontDirective,
+    UsersComponent
   ],
   imports: [
     BrowserModule,
