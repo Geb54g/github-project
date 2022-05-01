@@ -1,6 +1,6 @@
 <div class="search">
     <h2>Github search</h2>
-    <form action="">
-        <input type="search" name="" id=""><span><button>search</button></span>
+    <form (submit)="searchUser()">
+        <input type="search" [(ngModel)]="githubUserQuery" name="user" id="" placeholder="github user"><span><button>search</button></span>
     </form>
 </div>
