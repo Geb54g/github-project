@@ -1,0 +1,19 @@
+.search{
+    text-align: center;
+    padding-top: 3rem;
+    margin: 1rem;
+}
+h2{
+    padding-bottom: 1rem;
+    color: red;
+    text-shadow: 3px 4px 5px;
+    text-transform: uppercase;
+}
+input{
+    width: 20%;
+}
+button{
+    width: 5%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
